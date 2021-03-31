@@ -1,0 +1,19 @@
+{
+  "name": "eventzmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay-111/Eventzmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay-111/Eventzmine/issues"
+  },
+  "homepage": "https://github.com/abhay-111/Eventzmine#readme"
+}
